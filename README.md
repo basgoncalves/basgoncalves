@@ -7,7 +7,7 @@ I'm a biomechanist and data scientist with a background in human movement analys
 
 
 My main skills include:
-- Matlab, Python and R (for data analysis and processing)
+- Matlab and Python
 - Basic machine learning with Python
 - Basic Golang programming for app and software development
 - Excellent scientific background in the fields of biomechanics and biomedical engineering
