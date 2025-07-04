@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @basgoncalves
 - 👀 I’m interested in biomechanics, biomedical sciences, and data science
-- 🌱 I’m currently learning machine learning with Python and improving my programming skills
-
+- 🌱 I’m currently developning neuromusculoskeletal models improved with ML and AI techniques. Further developing python skills
 
 I'm a biomechanist with a background in human movement analysis, medical imaging, and musculoskeletal modelling.
 
